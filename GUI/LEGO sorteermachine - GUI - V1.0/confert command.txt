@@ -1,0 +1,1 @@
+pyuic5 -o main_windows_ui.py qt_LEGO_sorteerMachine.ui
