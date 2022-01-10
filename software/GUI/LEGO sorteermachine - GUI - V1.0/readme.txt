@@ -1,0 +1,1 @@
+GUI gemaaktr in QTdesigner
