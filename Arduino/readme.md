@@ -2,7 +2,7 @@ Arduino software
 
 Pinout:
 
-Driver 1:
+Driver : 1
 Dir : 14
 Step : 15
 
